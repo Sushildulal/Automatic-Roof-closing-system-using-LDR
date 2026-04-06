@@ -1,4 +1,4 @@
-![Project Screenshot](Roofclosingckt.jpeg)
+![Project Screenshot](Roofclosingckt.png)
 
 Introduction:
 The Automatic Roof Closing System utilizes a Light Dependent Resistor (LDR) to detect changes in light intensity. When the LDR senses a significant decrease in light intensity, indicating the presence of rain or excessive sunlight, it triggers the system to close the roof automatically.
